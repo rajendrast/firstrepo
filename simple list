@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>list</title>
+<body>
+<i>Fruits</i>
+<ol types="I"</lo>
+<li>Apple</li>
+<li>Banana</li>
+</ol>
+<b>computer</b>
+<ul>
+<li>Apple</li>
+<li>Linux</li>
+<li>Window</li>
+</ul>
+<u>Claases</u>
+<ol types="1" stsrt="4">
+<li>Six</li>
+<li>seven</li>
+</ol>
+</body>
+</html>
+
+
